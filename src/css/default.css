@@ -1,0 +1,67 @@
+@import url(reset.css);
+@import url('https://fonts.googleapis.com/css?family=Lora|Roboto+Condensed|Source+Sans+Pro');
+
+html{
+    
+    font-family: 'Roboto Condensed','Source Sans Pro','Lora', sans-serif;
+    
+}
+#header{
+    margin: 5px auto;
+}
+
+.top{
+    
+    text-align: center;
+    
+    
+}
+.top h1{
+    margin: 5px auto;
+    font-size: 26pt;
+}
+.top p{
+    
+    margin: 5px auto;
+    font-size: 18pt;
+    
+}
+
+.bottom{
+    margin: 5% auto;
+    text-align: left;
+    font-size: 18pt;
+}
+#body{
+    margin: 5px;
+    padding: 10px;
+    font-size: 14pt;
+    border: 5px solid blue;
+    
+}
+
+.custom-counter li{
+    list-style-type: decimal;
+    padding-left: 10px;
+    margin-left: 15px;
+    
+}
+.list {
+    margin 15px 40px;
+    padding: 15px;
+    width: 80%;
+}
+
+.sub {
+    margin: 10px;
+    margin-left: 15px;
+    padding: 20px;
+    border: 3px solid #689df2;
+    background-color: #689df2;
+}
+
+#end{
+    font-size: 18px;
+    margin: auto;
+    padding-left: 15px;
+}

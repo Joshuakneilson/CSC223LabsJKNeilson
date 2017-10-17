@@ -1,0 +1,37 @@
+@import url(reset.css);
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto|Slabo+27px');
+
+html{
+    font-family: 'Roboto','Open Sans','Slabo 27px', sans-serif, serif;
+
+}
+
+#header{
+    margin: auto;
+    padding: 25spx;
+    border: 10px solid aqua;
+    text-align: center;
+    background-color: aqua;
+    font-size: 40pt;
+    width: 100%;
+    
+}
+
+#Main{
+    margin: 100px auto;
+    padding: 5px;
+    width: 100%;
+    text-align: center;
+}
+
+.Box{
+    margin: auto;
+    display: inline-block;
+    width: 20%;
+}
+
+.Box p {
+    
+    margin: 5px;
+    font-size: 24pt;
+}
