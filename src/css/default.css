@@ -65,3 +65,10 @@ html{
     margin: auto;
     padding-left: 15px;
 }
+#copyright{
+    font-size: 12pt;
+    text-align: center;
+    padding: 5px;
+    margin: 5% auto;
+    
+}

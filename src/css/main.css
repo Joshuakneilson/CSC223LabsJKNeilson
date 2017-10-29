@@ -20,14 +20,14 @@ html{
 #Main{
     margin: 100px auto;
     padding: 5px;
-    width: 100%;
+    width: 100%;    
     text-align: center;
 }
 
 .Box{
     margin: auto;
     display: inline-block;
-    width: 20%;
+    width: auto;
 }
 
 .Box p {
