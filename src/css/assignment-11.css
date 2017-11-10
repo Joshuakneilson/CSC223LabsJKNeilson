@@ -1,0 +1,28 @@
+@import url(reset.css);
+
+@import url('https://fonts.googleapis.com/css?family=Inconsolata|Roboto+Mono|Source+Code+Pro');
+
+html{
+	font-family: 'Roboto Mono', 'Source Code Pro', 'Inconsolata', monospace;
+	font-size: 20pt;
+}
+
+#container-body{
+	padding: 30px;
+	margin: 25 auto;
+	
+
+}
+
+
+.favorite-item{
+	display: table-row;
+	margin: 10px auto;	
+
+}
+
+#container-button{
+	width: 100%;
+	margin: auto;
+
+}
